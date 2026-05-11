@@ -1,0 +1,8 @@
+[
+  { "name": "Paneer Rice Bowl", "calories": 650, "protein": 28, "totalFat": 24, "carbohydrates": 72, "sodium": 850, "cholesterol": 40, "barcode": "890100000001" },
+  { "name": "Sprout Chaat", "calories": 220, "protein": 14, "totalFat": 4, "carbohydrates": 34, "sodium": 180, "cholesterol": 0, "barcode": "890100000002" },
+  { "name": "Masala Dosa", "calories": 420, "protein": 9, "totalFat": 14, "carbohydrates": 65, "sodium": 620, "cholesterol": 0, "barcode": "890100000003" },
+  { "name": "Dal Khichdi", "calories": 380, "protein": 16, "totalFat": 8, "carbohydrates": 58, "sodium": 420, "cholesterol": 0, "barcode": "890100000004" },
+  { "name": "Grilled Chicken Salad", "calories": 330, "protein": 38, "totalFat": 12, "carbohydrates": 18, "sodium": 390, "cholesterol": 90, "barcode": "890100000005" },
+  { "name": "Curd Rice", "calories": 310, "protein": 10, "totalFat": 8, "carbohydrates": 48, "sodium": 360, "cholesterol": 20, "barcode": "890100000006" }
+]
